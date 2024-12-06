@@ -28,11 +28,11 @@ function App() {
           <div style={styles.logo} onClick={toggleSidebar}>
           <img
   src={`${process.env.PUBLIC_URL}/Logo.png`} // This refers to the 'public' folder directly
-  alt="S64 Logo"
+  alt="T70 Logo"
   style={styles.logoImage}
 />
 
-            S64
+            T70
           </div>
         </header>
 
